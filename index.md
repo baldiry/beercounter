@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to Beer+Counter Support Page
 
-You can use the [editor on GitHub](https://github.com/baldiry/beercounter/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+It is an application to keep a check of the drinks they consume.And in this version we offer you some information about how alcohol affects your system (Go to the app info and check the data).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Devices Support
 
-### Markdown
+It's only available for Apple Watch. App is only available as a standalone watchOS app
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### WatchOs Suport 
 
-```markdown
-Syntax highlighted code block
+6 or higher version
 
-# Header 1
-## Header 2
-### Header 3
+[Link](url) and ![Image](src)çç
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/baldiry/beercounter/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with App? Send me an Email to beercounter@gmail.com
